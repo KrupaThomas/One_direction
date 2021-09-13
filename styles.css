@@ -1,0 +1,18 @@
+html,body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+ul{
+    margin: 0px;
+}
+
+.main-head{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgba(0,0,0,0.6);
+    background-image: url(https://th.bing.com/th/id/R267848265be57f29ad1d8179aa0b49c1?rik=qBiBcNumGu5cUQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fReally-Cool-Desktop-Images.jpg&ehk=3f1wJA2I21oxQUp8zMo783zn3VwkuvtxynaTOcDuB3Q%3d&risl=&pid=ImgRaw);
+    background-size: cover;
+    background-blend-mode:luminosity;
+    color: white;
+}
